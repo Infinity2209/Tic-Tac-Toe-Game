@@ -1,0 +1,3 @@
+
+**Tic Tac Toe Game**  
+I developed a fully functional Tic Tac Toe game using HTML, CSS, and JavaScript. The game offers a simple and interactive interface where two players can take turns marking "X" or "O" on a 3x3 grid. The game dynamically updates based on the player's moves and determines the winner or if the game results in a draw. The core logic is powered by JavaScript, ensuring smooth gameplay, while the design and user interface are styled with CSS for a clean and responsive experience. This project showcases my ability to create engaging, real-time interactive applications using front-end technologies.
