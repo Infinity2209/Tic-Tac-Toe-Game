@@ -27,6 +27,7 @@ boxes.forEach((box) => {
             box.classList.add("blue"); 
         }
         else{
+            box.classList.remove("blue"); 
             box.innerText = "X";
             turnO = true;
             count++;
@@ -80,6 +81,7 @@ const resetGame = () => {
     for (let index of boxes) {
         index.disabled = false;
         index.innerText = " ";
+        count = 0
     }
     msg.classList.add("msg");
 }
